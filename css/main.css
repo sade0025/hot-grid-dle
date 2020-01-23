@@ -12,7 +12,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  font-family: 'Roboto Slab', serif;
+  font-family: "Roboto Slab", serif;
   font-size: 1rem;
   line-height: 1.3em;
 }
@@ -20,6 +20,7 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
 body {
   margin: 0;
 }
@@ -35,7 +36,7 @@ figure {
 }
 
 .box {
-  background-color: rgba(0,0,0,.5);
+  background-color: rgba(0, 0, 0, .5);
   position: absolute;
   bottom: .5rem;
   left: 1rem;
@@ -43,5 +44,4 @@ figure {
   color: #fff;
   border-radius: .5em;
   padding: 1em;
-
 }
